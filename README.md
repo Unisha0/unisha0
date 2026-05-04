@@ -38,7 +38,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23A855F7.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](http://unishachaulagain.com.np/)
 [![Instagram](https://img.shields.io/badge/partofyune__sha-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/partofyune_sha/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unisha-chaulagain/)
 [![Gmail](https://img.shields.io/badge/yunishachaulagain001-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunishachaulagain001@gmail.com)
 [![GitHub](https://img.shields.io/badge/Unisha0-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unisha0)
 
