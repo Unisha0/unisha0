@@ -19,7 +19,7 @@
 <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
 
 ```yaml
-👩‍💻 name      : Yunisha Chaulagain
+👩‍💻 name      : Unisha Chaulagain
 🎓 degree    : Computer Engineering
 🌍 location  : Nepal 🇳🇵
 🔭 focus     : AI · Machine Learning · NLP · Full Stack
