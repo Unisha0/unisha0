@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi!%20I'm%20Unisha%20%F0%9F%91%8B&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;NLP+%7C+Deep+Learning+%7C+RAG+Systems+%F0%9F%A7%A0;Full+Stack+Web+Developer+%F0%9F%8C%90;Computer+Engineering+Student+%F0%9F%8E%93;Building+Real-World+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;NLP+%7C+Deep+Learning+%7C+RAG+Systems+%F0%9F%A7%A0;Full+Stack+Web+Developer+%F0%9F%8C%90;Computer+Engineer+%F0%9F%8E%93;Building+Real-World+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
