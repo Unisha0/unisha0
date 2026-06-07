@@ -12,7 +12,11 @@ Welcome to my GitHub profile!
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 30px; margin: 20px 0; color: white;">
 
-<img align="right" alt="Unisha Chaulagain" src="unisha_photo.png" width="250" style="border-radius: 15px; margin-left: 20px; border: 3px solid white;"/>
+<div style="float: right; margin-left: 20px; margin-bottom: 20px;">
+  <div style="background: white; border-radius: 15px; padding: 8px; display: inline-block;">
+    <img alt="Unisha Chaulagain" src="unisha_photo.png" width="240" style="border-radius: 12px; display: block;"/>
+  </div>
+</div>
 
 ### **Full-Stack Developer & AI/ML Engineer**
 **Open to work** 💼
@@ -43,9 +47,6 @@ Whether it's a business platform, an AI solution, or a custom web application, I
 
 ### **📍 Location**
 🇳🇵 **Nepal**
-
-### **🎓 Education**
-**Computer Engineering Student**
 
 </div>
 
