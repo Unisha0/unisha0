@@ -10,33 +10,60 @@ Welcome to my GitHub profile!
 
 ## 🌸 About Me
 
-<img align="right" alt="Unisha Chaulagain" src="unisha_photo.png" width="280" style="border-radius: 15px; margin-left: 20px;"/>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 30px; margin: 20px 0; color: white;">
 
-I'm **Unisha Chaulagain**, a Computer Engineering student from Nepal passionate about building AI solutions for real-world problems.
+<img align="right" alt="Unisha Chaulagain" src="unisha_photo.png" width="250" style="border-radius: 15px; margin-left: 20px; border: 3px solid white;"/>
 
-```yaml
-👩‍💻 Name       : Unisha Chaulagain
-🎓 Degree     : Computer Engineering
-🌍 Location   : Nepal 🇳🇵
-🔭 Focus      : AI · Machine Learning · NLP · Full Stack
-🌱 Learning   : LLMs · RAG Systems · TypeScript · Next.js
-💡 Passion    : Building AI solutions that matter
-☕ Fuel       : Coffee + Code
-```
-
-<br clear="right"/>
+### **Full-Stack Developer & AI/ML Engineer**
+**Open to work** 💼
 
 ---
 
-## 🌐 Connect With Me
+<div style="text-align: left; margin-bottom: 20px;">
+
+**Hey there! 👋**
+
+I'm **Unisha Chaulagain**, a Full-Stack Developer and AI Engineer passionate about creating technology that makes a meaningful impact. My expertise spans:
+
+- 💻 **Full-Stack Development** - Building end-to-end applications
+- 🤖 **AI & Machine Learning** - Creating intelligent solutions
+- ☁️ **Cloud Infrastructure** - Deploying scalable systems
+- 🎨 **Product Design** - Crafting elegant user experiences
+
+Whether it's a business platform, an AI solution, or a custom web application, I focus on building products that are elegant, scalable, and built to last.
+
+---
+
+### **🛠️ Core Skills**
+- **Languages:** Python, JavaScript, TypeScript
+- **Web Frameworks:** Django, FastAPI, Next.js, React
+- **ML/AI:** PyTorch, TensorFlow, Hugging Face, NLP
+- **Databases:** Firebase, PostgreSQL, MongoDB, MySQL
+- **Cloud & Deployment:** Firebase, Git, Docker
+
+### **📍 Location**
+🇳🇵 **Nepal**
+
+### **🎓 Education**
+**Computer Engineering Student**
+
+</div>
+
+<br clear="right"/>
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/yunishachaulagain001-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunishachaulagain001@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23A855F7.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](http://unishachaulagain.com.np/)
-[![Instagram](https://img.shields.io/badge/partofyune__sha-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/partofyune_sha/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unisha-chaulagain/)
-[![Gmail](https://img.shields.io/badge/yunishachaulagain001-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunishachaulagain001@gmail.com)
-[![GitHub](https://img.shields.io/badge/Unisha0-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unisha0)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/partofyune_sha/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unisha0)
 
 </div>
 
